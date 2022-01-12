@@ -46,7 +46,7 @@ nav ul li{
     width: 75%;
     border-radius: 12px;
     padding: 34px;
-    background-image: url('bg6.jpeg');
+    background-image: url('bg.jpg');
 }
 
 .bottom{
@@ -108,9 +108,17 @@ nav ul li{
     cursor: pointer;
 }
 
-.songInfo{
+#gif{
     position: absolute;
     left: 10vw;
+    bottom: 10vh;
+    font-family: 'Varela Round', sans-serif;
+}
+#masterSongName{
+    
+    position: absolute;
+    right: 45vw;
+    
     font-family: 'Varela Round', sans-serif;
 }
 
